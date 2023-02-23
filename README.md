@@ -1,4 +1,4 @@
-### SQL/PHP/HTML/Python coder with degrees in Phys/Astro/Ed, and a biz o/o that primarly codes for myself/my biz (data analysis and predictive tools).
+### Biz o/o that primarly codes for myself/biz (data analysis and predictive tools) in python, php, mysql, html.
 
 - 🔭 I’m currently working on retiring (aren't we all).
 - 🌱 I’m currently learning Rust (slowly. That's how Rust grows).
